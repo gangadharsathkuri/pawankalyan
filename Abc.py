@@ -15,3 +15,4 @@ while index < len(input_string):
 
 print("Number of vowels:", vowel_count)
 print("Number of consonants:", consonant_count)
+Former England captain Michael Vaughan has suggested that Virat Kohli should be named India skipper for the upcoming series in England, with Gill as his deputy. Vaughan's suggestions come just days after India captain Rohit Sharma announced his official retirement from Test cricket.
